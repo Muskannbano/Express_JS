@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  },
+  "name": "express_js",
+  "version": "1.0.0",
+  "main": "expressServer.js",
+  "scripts": {
+    "start": " node expressServer.js",
+    "dev":"nodemon expressServer.js"
+  },
+  "author": "muskan",
+  "license": "ISC",
+  "description": ""
+}
